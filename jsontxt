@@ -1,0 +1,33 @@
+{
+"children": [
+                    {
+                        "id": "a9212993-9f8d-494e-a3fd-e3350f76ade4",
+                        "sourceId": 1,
+                        "pid": "fcb8378f-8141-46d4-87c0-6386fa59993c",
+                        "name": "药物通用名",
+                        "children": []
+                    },
+                    {
+                        "id": "685d44e0-7a31-4179-8c42-e6fb7fa5ece9",
+                        "sourceId": 5,
+                        "pid": "fcb8378f-8141-46d4-87c0-6386fa59993c",
+                        "name": "药物过量的处理方式",
+                        "children": [
+                            {
+                                "id": "59dc36b0-0bbb-4959-b551-d11448aebc84",
+                                "sourceId": 11,
+                                "pid": "685d44e0-7a31-4179-8c42-e6fb7fa5ece9",
+                                "name": "保存",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "86431f97-fdb7-4641-9efa-0bdae5b54f74",
+                        "sourceId": 4,
+                        "pid": "fcb8378f-8141-46d4-87c0-6386fa59993c",
+                        "name": "漏服药后的处理方式",
+                        "children": []
+                    }
+                ]
+}
